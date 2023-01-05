@@ -1,0 +1,9 @@
+{
+  "name": "fast1a32hex-gas",
+  "version": "0.1.0",
+  "main": "index.js",
+  "repository": "git@github.com:noriaki/fast1a32hex-gas.git",
+  "author": "Noriaki Uchiyama <uchiyama.noriaki@gmail.com> (https://github.com/noriaki)",
+  "license": "MIT",
+  "private": true
+}
