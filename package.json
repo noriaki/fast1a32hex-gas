@@ -5,5 +5,8 @@
   "repository": "git@github.com:noriaki/fast1a32hex-gas.git",
   "author": "Noriaki Uchiyama <uchiyama.noriaki@gmail.com> (https://github.com/noriaki)",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "devDependencies": {
+    "@google/clasp": "^2.4.2"
+  }
 }
